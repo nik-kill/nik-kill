@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey 👋
+***
+
+- 📫 How to reach me: nikhil062000@gmail.com  
+[Portfolio Website](https://nik-kill.github.io/)
 
 <!--
 **nik-kill/nik-kill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
