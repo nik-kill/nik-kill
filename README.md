@@ -1,12 +1,14 @@
-### Hey 👋
-***
+<h2>Hi, I'am Nikhil </h2>
+
+<!-- ### Hey 👋
+
 
 [Portfolio Website](https://nik-kill.github.io/)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nik-kill&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nik-kill&theme=tokyonight)
 
-nikhil062000@gmail.com  
+nikhil062000@gmail.com   -->
 <!--
 **nik-kill/nik-kill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
